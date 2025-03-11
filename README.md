@@ -19,7 +19,7 @@ Este proyecto utiliza la biblioteca `pandas` para manejar los datos de Excel y `
 ## Instalación
 
 ```sh
-pip install pandas mysql-connector-python
+pip install pandas 
 ```
 ```sh
  mysql-connector-python
